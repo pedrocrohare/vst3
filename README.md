@@ -5,6 +5,3 @@ VST3 EXAMPLE
 ```./build_script.sh```
 Hola
 3) edited
-
-edited again
-sdfsdf
