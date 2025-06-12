@@ -4,4 +4,5 @@ VST3 EXAMPLE
 2) Execute the build script at the root of the project:
 ```./build_script.sh```
 Hola
+
 3) edited
