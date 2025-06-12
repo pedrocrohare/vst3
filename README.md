@@ -8,3 +8,4 @@ VST3 EXAMPLE
 3) edited
 
 edited again
+sdfsdf
